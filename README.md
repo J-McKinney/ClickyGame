@@ -31,3 +31,4 @@ The application will render different images (of your choice) to the screen. Eac
 ---
 
 ### Create a README.md
+# ClickyGame
